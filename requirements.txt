@@ -1,0 +1,6 @@
+ez-setup==0.9
+Flask==1.0.2
+itsdangerous==0.24
+Jinja2==2.7.3
+MarkupSafe==0.23
+Werkzeug==0.11.15
